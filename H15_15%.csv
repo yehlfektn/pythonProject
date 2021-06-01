@@ -1,4 +1,4 @@
-No, Arrival time, AE channel, Amplitude, Counts, Duration, Energy, Rise counts, Rise Time
+No,time,channel,Amplitude,Counts,Duration,Energy,Rise counts,Rise Time
        1,20:17:22:31:473:579200, 1,     97.3,      98,     2935,      14.766,       2,     10.0
        2,20:17:22:31:473:618600, 2,     66.6,     114,     2212,       0.041,      12,     85.0
        3,20:17:22:31:473:628200, 7,     58.6,      65,      751,       0.003,      10,     80.0

@@ -61,3 +61,11 @@ cube400 = pd.DataFrame(np.array([[2, 354330.3543],
                                  [8, 277398.6301]]),
                        columns=['sensor', 'distance'])
 
+print(df.columns)
+# for index, row in df.iterrows():
+#     print("Row index: ", index)
+#     print(row['time'], row['channel'])
+
+
+
+
